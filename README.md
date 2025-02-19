@@ -1,27 +1,12 @@
 ## Hi there 👋
 
-<!--
-**jeongmin1016/jeongmin1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=gyeongho-cho&show_icons=true&theme=dracula">
 
 
 #### ✨ Stacks
-<img src="https://img.shields.io/badge/Python-3777AB?style=flat&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PyTorch-EE3C2C?style=flat&logo=PyTorch&logoColor=white"/>
 
-#### ✨ Dev logs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongho-cho&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/MATLAB/Simulink-0076A8?style=flat&logo=Mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=C&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>  <img src="https://img.shields.io/badge/OpenCV-005FAD?style=flat&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/MMCV-005FAD?"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/> 
